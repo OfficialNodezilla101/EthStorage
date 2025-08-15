@@ -1,4 +1,7 @@
 # EthStorage
+
+## The EthStorage V1 Trusted Setup Ceremony (13–22 Aug 2025 UTC) invites community members to generate zk‑SNARK parameters for EthStorage’s storage proofs. Participants install the p0tion CLI, authenticate with GitHub, contribute their own randomness and then clean up. The multi‑party process ensures that as long as one participant discards their secret, the resulting parameters are secure and can be safely used in EthStorage’s on‑chain verifier.
+
 Step-by-step guide on running a node for the EthStorage V1 Trusted Setup Ceremony. I’ll outline prerequisites, installation, setup, contribution procedures, and cleanup instructions.
 I’ll provide a detailed step-by-step guide on running a node for the EthStorage V1 Trusted Setup Ceremony. I’ll outline prerequisites, installation, setup, contribution procedures, and cleanup instructions.
 
